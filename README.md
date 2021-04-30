@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=BlueZ-95)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlueZ-95)](https://github.com/anuraghazra/github-readme-stats)
+[![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BlueZ-95)](https://github.com/anuraghazra/github-readme-stats)
